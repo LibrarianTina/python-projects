@@ -10,7 +10,6 @@ def calculate_pay(hours_worked, pay_per_hour):
   else: 
     total_pay = hours_worked * pay_per_hour
     return total_pay
-    
-print(calculate_pay(30, 30))
-print(calculate_pay(60, 20))
+print("Here is your pay!")    
+print(calculate_pay(70, 20))
 
