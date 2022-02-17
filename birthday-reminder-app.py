@@ -3,7 +3,7 @@ user_input = input("Enter a person's name: ")
 if user_input == "Lynn":
   print("Birthday is 4/15/70")
 elif user_input == "David":
-  print("Birthday is 10/3/73")
+  print("Birthday is 10/3/76")
 elif user_input == "Tammy":
   print("Birthday is 6/12/65")
 else:
